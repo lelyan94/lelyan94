@@ -39,11 +39,6 @@ HTML · CSS · JavaScript · TypeScript · Python · Git · Shell · API Integra
 
 ---
 
-## 📊 GitHub Stats
-
-![Lelyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lelyan94&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelyan94&layout=compact&theme=tokyonight)
 
 
 <!--
