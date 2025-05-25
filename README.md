@@ -37,6 +37,15 @@ HTML · CSS · JavaScript · TypeScript · Python · Git · Shell · API Integra
 🔗 LinkedIn: [linkedin.com/in/lelyan-saadeh](www.linkedin.com/in/lelyan-saadeh-5772122a8)  
 💻 GitHub: [github.com/lelyan94](https://github.com/lelyan94)
 
+---
+
+## 📊 GitHub Stats
+
+![Lelyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lelyan94&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelyan94&layout=compact&theme=tokyonight)
+
+
 <!--
 **lelyan94/lelyan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
