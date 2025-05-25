@@ -30,6 +30,13 @@ HTML · CSS · JavaScript · TypeScript · Python · Git · Shell · API Integra
 
 ---
 
+
+## 🤝 Let's Connect!
+
+📧 Email: [Lelyan94@outlook.com](mailto:Lelyan94@outlook.com)  
+🔗 LinkedIn: [linkedin.com/in/lelyan-saadeh](www.linkedin.com/in/lelyan-saadeh-5772122a8)  
+💻 GitHub: [github.com/lelyan94](https://github.com/lelyan94)
+
 <!--
 **lelyan94/lelyan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
