@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Lelyan Saadeh
 
-💻 **Multidisciplinary IT Specialist**  
-☁️ Cloud | 🖥️ Systems | 🌐 Web Development | 📊 Data  
-🇨🇦 Based in Canada | 🚀 Aspiring DevOps Engineer  
+💻 Software Engineer | DevOps Path | IT Services Professional  
+    🇨🇦 Based in Canada | 🚀 Aspiring DevOps Engineer  
 
 ---
 
