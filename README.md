@@ -10,8 +10,9 @@
 I'm a curious and solutions-driven IT professional with a **B.Sc. in Software Engineering** and over a year of hands-on experience in:
 
 - 🌐 **Full-Stack Web Development**
-- 🖥️ **IT Support & System Administration**
 - ☁️ **Cloud Infrastructure & Automation**
+- 🖥️ **IT Support & System Administration**
+
 
 
 From configuring secure networks to deploying scalable cloud systems, I love making tech work **better — smarter, faster, and safer**. Think of me as a full-time debugger — always learning, always improving! 👩‍💻✨
