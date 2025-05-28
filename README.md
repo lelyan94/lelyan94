@@ -1,56 +1,61 @@
-# 👋 Hi, I'm Lelyan Saadeh
+# 👋 Hi, I'm **Lelyan Saadeh**
 
-💻 Software Engineer | DevOps Path | IT Services Professional  
-    🇨🇦 Based in Canada | 🚀 Aspiring DevOps Engineer  
+💻 **Software Engineer** | 🛠️ **DevOps Enthusiast** | 💼 **IT Services Professional**  
+📍 **Based in Canada** | 🚀 **Aspiring DevOps Engineer**
 
 ---
 
 ## 💡 About Me
 
-I'm a curious and solutions-driven IT professional with a **B.Sc. in Software Engineering** and over a year of experience in **IT support**, **cloud infrastructure**, and **full-stack web development**.
+I'm a curious and solutions-driven IT professional with a **B.Sc. in Software Engineering** and over a year of hands-on experience in:
 
-From configuring secure networks to deploying scalable cloud systems, I love making tech work better — smarter, faster, and safer. Think of me as a full-time debugger — always learning, always improving! 👩‍💻🔧
+- 🌐 **Full-Stack Web Development**
+- 🖥️ **IT Support & System Administration**
+- ☁️ **Cloud Infrastructure & Automation**
+
+
+From configuring secure networks to deploying scalable cloud systems, I love making tech work **better — smarter, faster, and safer**. Think of me as a full-time debugger — always learning, always improving! 👩‍💻✨
 
 ---
 
 ## 🛠️ Technical Skills
 
-**System & Network Administration**  
-Windows · Linux · Active Directory · DNS/DHCP · VPN · VMware · Hyper-V · Remote Support  
+### 🔣 Programming & Scripting
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, SQL
+- **Concepts:** OOP, Data Structures & Algorithms, REST APIs
+- **Tools:** Git, GitHub, Bash, npm, Shell Scripting
 
-**Cloud & Data**  
-Azure · Microsoft 365 · SQL · Power BI · Tableau · Docker · Kubernetes · GitHub Actions  
+### 🌐 Web Development
+- **Frameworks:** React, Node.js, Bootstrap
 
-**Security & Monitoring**  
-pfSense · Palo Alto · Wireshark · Nmap · DNS Sinkhole · IPS · Cloudflare · SSL/TLS  
+### ☁️ DevOps & Cloud
+- **Cloud Platforms:** Azure
+- **Tools & Technologies:** Docker, Kubernetes, Terraform (IaC), GitHub Actions (CI/CD), Ansible
+- **Virtualization:** VMware, Hyper-V  
+- **Operating Systems:** Windows & Linux
 
-**Web Development & Scripting**  
-HTML · CSS · JavaScript · TypeScript · Python · Git · Shell · API Integration  
+### 🔐 Networking & Security
+- **Core Services:** Active Directory, DNS, DHCP, VPN
+- **Firewalls & Tools:** pfSense, Palo Alto, NAT
+- **Security Tools:** Wireshark, Nmap, Snort
+- **Security Concepts:** SSL/TLS, DNS Sinkhole
 
 ---
-
 
 ## 🤝 Let's Connect!
 
-📧 Email: [Lelyan94@outlook.com](mailto:Lelyan94@outlook.com)  
-🔗 LinkedIn: [linkedin.com/in/lelyan-saadeh](www.linkedin.com/in/lelyan-saadeh-5772122a8)  
-💻 GitHub: [github.com/lelyan94](https://github.com/lelyan94)
+📧 **Email:** [Lelyan94@outlook.com](mailto:Lelyan94@outlook.com)  
+💼 **LinkedIn:** [linkedin.com/in/lelyan-saadeh](https://www.linkedin.com/in/lelyan-saadeh-5772122a8)  
+💻 **GitHub:** [github.com/lelyan94](https://github.com/lelyan94)
 
 ---
 
-
-
 <!--
-**lelyan94/lelyan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my profile!
 
-Here are some ideas to get you started:
+I'm passionate about technology, innovation, and collaboration. Feel free to reach out for opportunities, questions, or just to connect with a fellow tech enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on advanced infrastructure simulations with Terraform and Azure.  
+🌱 I’m learning advanced DevOps workflows and cloud-native tools.  
+💬 Ask me about   Web Development, Network Administration, or IT Support!
 -->
