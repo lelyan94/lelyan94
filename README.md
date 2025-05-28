@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Lelyan Saadeh**
 
-💻 **Software Engineer** | 🛠️ **DevOps Enthusiast** | 💼 **IT Services Professional**  
-📍 **Based in Canada** | 🚀 **Aspiring DevOps Engineer**
+💻   **Software Engineer** | 🛠️ **DevOps Enthusiast** | 💼 **IT Services Professional**  
+📍🇨🇦 **Based in Canada** | 🚀 **Aspiring DevOps Engineer**
 
 ---
 
